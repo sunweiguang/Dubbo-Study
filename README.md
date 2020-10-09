@@ -2,15 +2,16 @@
 **一、SOA**  service oriented architecture
 
 1. SOA 是一种思想，面向服务的架构
+
 2. SOA定位：如何设计项目，让开发更有效率
 
-
+   
 
 SOA架构的代表项目：
 
-​Dubbo: 基于RPC 通信
+​	<u>Dubbo</u>: 基于RPC 通信
 
-​Springcloud: 基于HTTP的REST方式，能够与Springboot、spring framework、spring Data、Spring Batch完美的结合，这些对微服务来讲是至关重要的。
+​	<u>Springcloud</u>: 基于HTTP的REST方式，能够与Springboot、spring framework、spring Data、Spring Batch完美的结合，这些对微服务来讲是至关重要的。
 
 **二、RPC**: Remote procedure call Protocal
 
